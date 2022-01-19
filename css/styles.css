@@ -1,0 +1,25 @@
+:root {
+  --primary-text-color: #757575;
+  --secondary-text-color: #ffffff;
+  --footer-text-color: rgba(255, 255, 255, 0.6);
+  --title-text-color: #212121;
+  --logo-black-color: #000000;
+  --accent-color: #2196f3;
+  --primary-bg-color: #ffffff;
+  --secondary-bg-color: #f5f4fa;
+  --footer-bg-color: #2f303a;
+}
+
+/* основной цвет текста (прозрачный) #757575  */
+
+/* вторичный цвет текста (черный) #212121 */
+
+/* третий цвет текста (белый) #ffffff */
+
+/* основной фон (белый)  #ffffff */
+
+/* второй фон (белый с прозрачностью) #f5f4fA (наша команда) */
+
+/* третий фон футера + эффиктивные решения (серый) #2f303a */
+
+/* акцент #2196f3 */
